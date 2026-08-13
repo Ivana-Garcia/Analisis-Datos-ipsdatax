@@ -1,6 +1,6 @@
 # 📊 Análisis Comercial, Rentabilidad y Modelado DAX — IPS DATAX
 
-![Portada del Proyecto](dashboard.png)
+![Portada del Proyecto](./dashboard.png)
 
 ## 📌 Introducción y Objetivos
 Este proyecto consiste en un **análisis comercial integral** sobre el rendimiento de ventas, costos operativos y margen de rentabilidad por sucursal. 
