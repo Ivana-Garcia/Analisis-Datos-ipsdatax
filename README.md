@@ -65,3 +65,5 @@ CALCULATE(
 
 🎓 Certificación y Contexto
 Este trabajo fue desarrollado como proyecto final del Curso de Análisis de Datos impartido por IPS DATAX (50 horas de formación académica práctica en Excel, SQL, Power BI y Python).
+
+![](./Proyecto-Data-Analytics/certificado.png)
