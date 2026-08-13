@@ -49,7 +49,9 @@ CALCULATE(
 
 📍 Ciudad de Mayor Rentabilidad:
   Determinación del mercado geográfico líder utilizando SELECTCOLUMNS y agregaciones de margen neto.
+  
 --- 
+
 📈 Dashboard e Insights Principales
 💡 Conclusiones del Análisis:
 
